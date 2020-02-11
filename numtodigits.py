@@ -1,5 +1,4 @@
 '''
-
 solution
 '''
 s=input()
