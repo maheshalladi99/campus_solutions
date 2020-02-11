@@ -1,6 +1,6 @@
 '''
 
-
+solution
 '''
 s=input()
 c=0
