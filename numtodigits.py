@@ -1,3 +1,6 @@
+'''
+hdsjknsdvkj
+'''
 s=input()
 c=0
 f=len(s)
