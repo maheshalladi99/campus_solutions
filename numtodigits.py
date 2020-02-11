@@ -1,5 +1,5 @@
 '''
-hdsjknsdvkj
+hd
 '''
 s=input()
 c=0
